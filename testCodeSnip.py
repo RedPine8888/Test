@@ -1,4 +1,4 @@
-# filename: hello_toko.py
+
 
 def greet_user(name):
     return f"Hello, {name}! Welcome to the Toko project."
